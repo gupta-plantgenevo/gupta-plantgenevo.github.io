@@ -1,8 +1,8 @@
 ---
+layout: archive
 title: "Courses"
 permalink: /teaching/
 ---
-
 
 ### **Plant Physiology**
 *Ashoka University, 2025*
