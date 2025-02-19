@@ -1,8 +1,6 @@
 ---
-layout: single
-title: Courses
+title: "Courses"
 permalink: /teaching/
-date:
 ---
 
 
