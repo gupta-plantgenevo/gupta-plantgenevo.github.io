@@ -2,14 +2,14 @@
 ---
 permalink: /
 title: "Welcome to the My Webpage"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
 <div style="float: center; padding-right: 15px">
-    <a href="http://gu[ta-plantgenevo.github.io/images/profilePic.jpg"><img src="/images/profile_main.jpg" title="Genomics Driven Precision Health" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
+    <a href="http://gupta-plantgenevo.github.io/images/profilePic.jpg"><img src="/images/profile_main.jpg" title="Genomics Driven Precision Health" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
 </div>
 
 ### **About me:**
