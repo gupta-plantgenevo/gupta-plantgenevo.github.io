@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Welcome to the My Webpage"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div style="float: center; padding-right: 15px">
-    <a href="http://gupta-plantgenevo.github.io/images/profilePic.png"><img src="/images/profilePic.png" title="A throne of one sweetpotato plant" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
+<div style="float: center; padding-right: 1px">
+    <a href="http://gupta-plantgenevo.github.io/images/profilePic.png"><img src="/images/profilePic.png" title="A throne of one sweetpotato plant" width="400" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
 </div>
 
 ### **About me:**
