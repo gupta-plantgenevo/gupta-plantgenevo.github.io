@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Courses"
+author_profile: false
 permalink: /teaching/
 ---
 
