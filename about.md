@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="float: center; padding-right: 15px">
-    <a href="http://gu[ta-plantgenevo.github.io/images/profilePic.jpg"><img src="/images/profile_main.jpg" title="Genomics Driven Precision Health" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
+    <a href="http://gu[ta-plantgenevo.github.io/images/profilePic.png"><img src="/images/profilePic.png" title="Throne of one sweetpotato plant" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
 </div>
 
 ### **About me:**
