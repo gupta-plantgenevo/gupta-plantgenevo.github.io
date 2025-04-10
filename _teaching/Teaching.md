@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ### **Plant Physiology**
-*Ashoka University, 2025* 
+*Ashoka University, 2025*  
 Undergraduate level physiology course aiming at the basic understanding of animal and plant physiology. The plant          physiology course covers conceptual undertanding of processes required for plant survival. We cover photosynthesis         (light and carbon reactions), mineral uptake and assimilation, hormonal signaling and transduction, light mediated         growth and development, and stress physiology.
 <br/>
 ### **Introductory Genetics**
