@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="float: center; padding-right: 1px">
-    <a href="http://gupta-plantgenevo.github.io/images/profilePic.png"><img src="/images/profilePic.png" title="A throne of one sweetpotato plant" width="400" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
+    <a href="http://gupta-plantgenevo.github.io/images/profilePic.png"><img src="/images/profilePic.png" title="A throne of one sweetpotato plant" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
 </div>
 
 ### **About me:**
