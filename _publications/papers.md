@@ -7,7 +7,7 @@ permalink: /publications/
 
 For an up-to-date list, see [my google scholar profile](https://scholar.google.com/citations?user=cikpGiQAAAAJ&hl=en).
 
-Kurbidaeva A, Gupta S, Zaidem M, Castanera R, Sato Y, Joly‐Lopez Z, Casacuberta JM, Purugganan MD. 2025. [Topologically associating domains and the evolution of three‐dimensional genome architecture in rice](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.70139). The Plant Journal. [Download](http://gupta-plantgenevo.github.io/files/rice_TADs.pdf)
+Kurbidaeva A, **Gupta S**, Zaidem M, Castanera R, Sato Y, Joly‐Lopez Z, Casacuberta JM, Purugganan MD. 2025. [Topologically associating domains and the evolution of three‐dimensional genome architecture in rice](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.70139). The Plant Journal. [Download](http://gupta-plantgenevo.github.io/files/rice_TADs.pdf)
 
 **Gupta S**, Groen SC, Zaidem ML, Sajise AGC, Calic I, Natividad MA, McNally KL, Vergara GV, Satija R, Franks SJ, Singh RK, Joly-Lopez Z, Purugganan MD. 2024. [Systems genomics of salinity stress response in rice](https://elifesciences.org/articles/99352). eLife. [Download](http://gupta-plantgenevo.github.io/files/salinity_stress.pdf)
 
