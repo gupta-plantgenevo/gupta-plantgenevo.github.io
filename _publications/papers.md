@@ -7,6 +7,8 @@ permalink: /publications/
 
 For an up-to-date list, see [my google scholar profile](https://scholar.google.com/citations?user=cikpGiQAAAAJ&hl=en).
 
+Kurbidaeva A, Gupta S, Zaidem M, Castanera R, Sato Y, Joly‐Lopez Z, Casacuberta JM, Purugganan MD. 2025. [Topologically associating domains and the evolution of three‐dimensional genome architecture in rice](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.70139). The Plant Journal. [Download](http://gupta-plantgenevo.github.io/files/rice_TADs.pdf)
+
 **Gupta S**, Groen SC, Zaidem ML, Sajise AGC, Calic I, Natividad MA, McNally KL, Vergara GV, Satija R, Franks SJ, Singh RK, Joly-Lopez Z, Purugganan MD. 2024. [Systems genomics of salinity stress response in rice](https://elifesciences.org/articles/99352). eLife. [Download](http://gupta-plantgenevo.github.io/files/salinity_stress.pdf)
 
 Sar P, **Gupta S**, Behera M, Chakraborty K, Ngangkham U, Verma BC, Banerjee A, Hanjagi PS, Bhaduri D, Shil S, Kumar J, Mandal NP, Kole PC, Purugganan MD & Roy, S. 2024. [Exploring Genetic Diversity within aus Rice Germplasm: Insights into the Variations in Agro-morphological Traits](https://thericejournal.springeropen.com/articles/10.1186/s12284-024-00700-4). Rice. [Download](http://gupta-plantgenevo.github.io/files/Aus_GWAS.pdf)
