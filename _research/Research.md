@@ -2,7 +2,7 @@
 layout: archive
 title: "Research in the lab"
 author_profile: false
-permalink: /
+permalink: /research/
 ---
 
 ### **Adaptation to abiotic stress **
