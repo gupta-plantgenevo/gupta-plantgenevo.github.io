@@ -1,0 +1,29 @@
+/* kill both sidebars (author left + TOC right) everywhere */
+.sidebar,
+.sidebar__right {
+  display: none !important;
+}
+
+/* let the main content take the full row */
+.page,
+.page__inner-wrap,
+.page__content,
+.initial-content,
+.archive,
+.layout--single .page,
+.layout--single .page__inner-wrap,
+.layout--single .page__content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* (optional) keep readability: left-aligned with a comfortable line length */
+.body-left-narrow .page__content {
+  max-width: 70ch !important;   /* ~70 characters per line */
+  margin-left: 0 !important;    /* left aligned */
+  padding-left: 0 !important;
+  padding-right: 1rem !important;
+}
