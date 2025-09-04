@@ -17,7 +17,7 @@ Methodologically, I employ large-scale field and greenhouse phenotyping combined
 
 ### **Study Systems**
 ### **Pigeonpea**   
-Pigeonpea *(Cajanus cajan)*, commonly known as Arhar or Tur dal, is an important diploid outcrossing legume (2n = 22) which was domesticated relatively recently (3500 years ago) in India. It is a nutrient dense crop that is cultivated on over 6.36 million hectare land area globally (FAO Stat. 2022, particularly in the semi-arid regions of India and East Africa. Although more resilient to abiotic stress than most crops, pigeonpea productivity suffers due to high salinity and temperature extremes. Despite its economic importance and resilience in marginal environments, pigeonpea's genetic basis for tolerance and adaptation to environmental stressors remains poorly understood -- an area my lab is actively investigating.
+Pigeonpea *(Cajanus cajan)*, commonly known as Arhar or Tur dal, is an important diploid outcrossing legume (2n = 22) which was domesticated relatively recently (3500 years ago) in India. It is a nutrient dense crop that is cultivated on over 6.36 million hectare land area globally (FAO Stat. 2022), particularly in the semi-arid regions of India and East Africa. Although more resilient to abiotic stress than most crops, pigeonpea productivity suffers due to high salinity and temperature extremes. Despite its economic importance and resilience in marginal environments, pigeonpea's genetic basis for tolerance and adaptation to environmental stressors remains poorly understood -- an area my lab is actively investigating.
 
 <div style="text-align: center; padding-right: 15px">
   <a href="http://gupta-plantgenevo.github.io/images/pigeonpea.png">
