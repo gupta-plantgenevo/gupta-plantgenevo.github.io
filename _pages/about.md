@@ -18,7 +18,7 @@ I did my Ph.D at the University of Michigan, Ann Arbor with [Dr. Regina Baucom](
 <div style="text-align: center; padding-right: 15px">
   <a href="http://gupta-plantgenevo.github.io/images/profilePic.png">
     <img src="/images/profilePic.png" 
-         width="400" 
+         width="500" 
          border="0" 
          onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'profile']);">
   </a>
