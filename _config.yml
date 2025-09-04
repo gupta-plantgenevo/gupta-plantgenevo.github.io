@@ -16,6 +16,9 @@ description              : &description "personal description"
 url                      : https://gupta-plantgenevo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gupta-plantgenevo/gupta-plantgenevo.github.io"
+author_profile           : false
+sidebar                  : false
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
