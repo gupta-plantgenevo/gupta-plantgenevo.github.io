@@ -2,7 +2,6 @@
 layout: archive
 title: "Research in the lab"
 author_profile: false
-classes: wide
 permalink: /research/
 ---
 
