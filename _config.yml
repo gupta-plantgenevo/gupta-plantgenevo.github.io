@@ -154,10 +154,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  contact:
     output: true
     permalink: /:collection/:path/
 
@@ -209,13 +209,13 @@ defaults:
       author_profile: false
       share: true
       comment: true
-  # _talks
+  # _contact
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 
