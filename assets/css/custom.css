@@ -23,7 +23,7 @@
 /* (optional) keep readability: left-aligned with a comfortable line length */
 .body-left-narrow .page__content {
   max-width: 70ch !important;   /* ~70 characters per line */
-  margin-left: 1rem !important;    /* left aligned */
+  margin-left: 2rem !important;    /* left aligned */
   padding-left: 0 !important;
-  padding-right: 1rem !important;
+  padding-right: 2rem !important;
 }
