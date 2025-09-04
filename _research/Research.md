@@ -5,9 +5,6 @@ author_profile: false
 permalink: /research/
 ---
 
-# Research in the lab
-{: .text-left }
-
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
 
 <!-- LEFT COLUMN -->
@@ -15,11 +12,12 @@ permalink: /research/
 
 ### **Adaptation to abiotic stress**
 My research investigates how crops adapt to abiotic stresses such as salinity, drought and heat, all of which impose strong constraints on growth and yield. These stresses act as powerful selective pressures, shaping the genetic and regulatory architecture of plant populations. Biologically, abiotic stresses drive selection by favoring alleles that enhance survival and performance but often at a cost to other fitness traits. For example, salinity stress can intensify selection on gene expression networks, while domestication has historically favored loss of resistance or stress-response genes to optimize yield. Such trade-offs highlight the evolutionary constraints and adaptive potential of crops facing environmental pressures. I am interested in identifying key phenotypes, genes and regulatory networks that is associated with response and adaptation (including trade-offs) to abiotic stresses. I use a suite of approaches to quantify how abiotic stresses act as selective agents, and shapes genetic variation and regulatory networks that underpin crop adaptation. By studying adaptation at the intersection of physiology, genomics, and evolution, I aim to uncover mechanisms that can be harnessed for crop improvement under changing climates.
-
+<br/>
+<br/>
 ### **Study System**
 ### **Pigeonpea**
 Pigeonpea *(Cajanus cajan)*, commonly known as Arhar or Tur dal, is an important diploid outcrossing legume (2n = 22) which was domesticated relatively recently (3500 years ago) in India. It is a nutrient dense crop that is cultivated on over 6.36 million hectare land area globally (FAO Stat. 2022), particularly in the semi-arid regions of India and East Africa. Although more resilient to abiotic stress than most crops, pigeonpea productivity suffers due to high salinity and temperature extremes. Despite its economic importance and resilience in marginal environments, pigeonpea's genetic basis for tolerance and adaptation to environmental stressors remains poorly understood -- an area my lab is actively investigating.
-
+<br/>
 <div style="text-align: center; padding-right: 15px">
   <a href="http://gupta-plantgenevo.github.io/images/pigeonpea.png">
     <img src="/images/pigeonpea.png" 
