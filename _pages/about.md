@@ -15,6 +15,14 @@ Before joining Ashoka in February, 2025, I was a postdoctoral research associate
 I did my Ph.D at the University of Michigan, Ann Arbor with [Dr. Regina Baucom](https://baucomlab.wordpress.com/) to map phenotype to genotype in *Ipomoea* using approaches from quantitative and population genetics.
 
 -----
-<div style="float: center; padding-right: 1px">
-    <a href="http://gupta-plantgenevo.github.io/images/profilePic.png"><img src="/images/profilePic.png" title="A throne of one sweetpotato plant" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'grandiflora']);"></a>
+<div style="text-align: center; padding-right: 15px">
+  <a href="http://gupta-plantgenevo.github.io/images/profilePic.png">
+    <img src="/images/profilePic.png" 
+         width="200" 
+         border="0" 
+         onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'profile']);">
+  </a>
+  <div style="color: black; font-size: 14px; margin-top: 5px;">
+    Throne of one sweetpotato plant
+  </div>
 </div>
