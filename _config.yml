@@ -166,7 +166,6 @@ defaults:
       toc: false
       share: false
       comment: false
-      classes: full
   # _contact
   - scope:
       path: ""
