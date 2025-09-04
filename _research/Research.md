@@ -5,9 +5,6 @@ author_profile: false
 permalink: /research/
 ---
 
-# Research in the lab
-{: .text-left }
-
 <!-- two-column responsive layout -->
 <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
 
