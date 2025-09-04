@@ -17,30 +17,6 @@ url                      : https://gupta-plantgenevo.github.io # the base hostna
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gupta-plantgenevo/gupta-plantgenevo.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : #"http://gu[ta-plantgenevo.github.io/images/profilePic.jpg"
-  name             : #"Sonal Gupta"
-  pronouns         : # example: "she/her"  
-  bio              : #"Interested in studying plant adaption and evolution"
-  employer         : #"Faculty Fellow, Trivedi School of Bioscience"
-  location         : #"Ashoka University"
-  uri              : # URL
-  email            : #"sonal.gupta@ashoka.edu.in" 
-
-  # Academic websites
-  googlescholar    : #"https://scholar.google.com/citations?user=cikpGiQAAAAJ&hl=en"
-
-  # Repositories and software development
-  github           : #"gupta-plantgenevo"
-
-  # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  twitter          : # Username for X / Twitter
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -170,10 +146,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      classes: wide
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -182,6 +159,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      classes: wide
   # _teaching
   - scope:
       path: ""
@@ -189,8 +167,9 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
-      comments: true
+      share: false
+      comments: false
+      classes: wide
   # _publications
   - scope:
       path: ""
@@ -198,8 +177,9 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
-      comments: true
+      share: false
+      comments: false
+      classes: wide
   # _research
   - scope:
       path: ""
@@ -207,16 +187,17 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
-      comment: true
+      share: false
+      comment: false
+      classes: wide
   # _contact
   - scope:
       path: ""
-      type: talks
+      type: contact
     values:
-      layout: talk
+      layout: contact
       author_profile: false
-      share: true
+      share: false
 
 
 # Sass/SCSS
