@@ -6,22 +6,30 @@ permalink: /research/
 ---
 
 <!-- two-column responsive layout -->
-<div style="display: flex; gap: 3rem; align-items: flex-start; flex-wrap: wrap;">
+<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; margin-bottom: 2rem;">
 
   <!-- LEFT COLUMN -->
-  <div style="flex: 1 1 320px; min-width: 300px;">
+  <div style="flex: 2 1 500px; min-width: 300px;">
 
     <h3><strong>Adaptation to abiotic stress</strong></h3>
     <p>
-    My research investigates how crops adapt to abiotic stresses such as salinity, drought and heat, all of which impose strong constraints on growth and yield. These stresses act as powerful selective pressures, shaping the genetic and regulatory architecture of plant populations. Biologically, abiotic stresses drive selection by favoring alleles that enhance survival and performance but often at a cost to other fitness traits. For example, salinity stress can intensify selection on gene expression networks, while domestication has historically favored loss of resistance or stress-response genes to optimize yield. Such trade-offs highlight the evolutionary constraints and adaptive potential of crops facing environmental pressures. I am interested in identifying key phenotypes, genes and regulatory networks that is associated with response and adaptation (including trade-offs) to abiotic stresses. I use a suite of approaches to quantify how abiotic stresses act as selective agents, and shapes genetic variation and regulatory networks that underpin crop adaptation. By studying adaptation at the intersection of physiology, genomics, and evolution, I aim to uncover mechanisms that can be harnessed for crop improvement under changing climates.
+    My research investigates how crops adapt to abiotic stresses such as salinity, drought and heat, all of which impose strong constraints on growth and yield. These stresses act as powerful selective pressures, shaping the genetic and regulatory architecture of plant populations. Biologically, abiotic stresses drive selection by favoring alleles that enhance survival and performance but often at a cost to other fitness traits. For example, salinity stress can intensify selection on gene expression networks (see alongside image), while domestication has historically favored loss of resistance or stress-response genes to optimize yield. Such trade-offs highlight the evolutionary constraints and adaptive potential of crops facing environmental pressures. I am interested in identifying key phenotypes, genes and regulatory networks that is associated with response and adaptation (including trade-offs) to abiotic stresses. I use a suite of approaches to quantify how abiotic stresses act as selective agents, and shapes genetic variation and regulatory networks that underpin crop adaptation. By studying adaptation at the intersection of physiology, genomics, and evolution, I aim to uncover mechanisms that can be harnessed for crop improvement under changing climates.
     </p>
     
-    <h3><strong>Study System: Pigeonpea</strong></h3>
+    <h4><strong>Study System: Pigeonpea</strong></h4>
     <p>
     Pigeonpea <em>(Cajanus cajan)</em>, commonly known as Arhar or Tur dal, is an important diploid outcrossing legume (2n = 22) which was domesticated relatively recently (3500 years ago) in India. It is a nutrient dense crop that is cultivated on over 6.36 million hectare land area globally (FAO Stat. 2022), particularly in the semi-arid regions of India and East Africa. Although more resilient to abiotic stress than most crops, pigeonpea productivity suffers due to high salinity and temperature extremes. Despite its economic importance and resilience in marginal environments, pigeonpea's genetic basis for tolerance and adaptation to environmental stressors remains poorly understood — an area my lab is actively investigating.
     </p>
 
-    <div style="text-align: center; padding-right: 15px; margin-top: 0.5rem;">
+    <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
+      <a href="http://gupta-plantgenevo.github.io/images/rice_salineselection.jpg">
+        <img src="/images/rice_salineselection.jpg" 
+             width="400" 
+             border="0" 
+             alt="Selection on transcript - salinity stress"
+             onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'profile']);">
+      </a>
+        
       <a href="http://gupta-plantgenevo.github.io/images/pigeonpea.png">
         <img src="/images/pigeonpea.png" 
              width="400" 
@@ -37,9 +45,9 @@ permalink: /research/
   </div> <!-- /left column -->
 
 
-  <!-- RIGHT COLUMN -->
-  <div style="flex: 1 1 320px; min-width: 300px;">
+ <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; margin-bottom: 2rem;">
 
+  <div style="flex: 2 1 500px; min-width: 300px;">
     <h3><strong>Domestication and post-domestication divergence</strong></h3>
     <p>
     Another area that I am interested in is understanding how domestication and post-domestication processes have shaped genome evolution and driven divergence both between wild progenitors and cultivated crops, as well as among different cultivated lineages. My research focuses on uncovering the how the interplay of processes such as selection, demographic bottlenecks, gene loss, structural variation, and introgression, shape the diversity we see today. By integrating comparative genomics, population genetics, and functional analyses, I identify genetic variants, structural changes, and regulatory shifts that underlie domestication and post-domestication diversification. This work not only deepens our understanding of plant evolution but also gives us insights into the history of domestication and its spread. Further, it provides critical genomic resources for linking evolutionary processes to key agronomic traits, thereby accelerating efforts in crop adaptation and improvement.
@@ -54,7 +62,7 @@ permalink: /research/
     In addition, rice is grown using different cultivation systems (upland-rainfed, lowland-rainfed, irrigated and deep-water) which have led to distinct selection pressures that shaped genomic and regulatory diversity. The lab is interested in uncovering this diversity.
     </p>
 
-    <div style="text-align: center; padding-right: 15px; margin-top: 0.5rem;">
+    <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
       <a href="http://gupta-plantgenevo.github.io/images/rice.jpg">
         <img src="/images/rice.jpg" 
              width="600" 
