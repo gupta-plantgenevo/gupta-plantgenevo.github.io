@@ -16,14 +16,14 @@
   max-width: 100% !important;
   width: 100% !important;
   margin: 0 !important;
-  padding-left: 1rem !important;
+  padding-left: 1.5rem !important;
   padding-right: 1rem !important;
 }
 
 /* (optional) keep readability: left-aligned with a comfortable line length */
 .body-left-narrow .page__content {
   max-width: 70ch !important;   /* ~70 characters per line */
-  margin-left: 1rem !important;    /* left aligned */
+  margin-left: 1.5rem !important;    /* left aligned */
   padding-left: 0 !important;
   padding-right: 1rem !important;
 }
