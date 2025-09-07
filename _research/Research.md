@@ -5,9 +5,8 @@ author_profile: false
 permalink: /research/
 ---
 
-<!-- two-column responsive layout -->
-<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; margin-bottom: 2rem;">
-  <!-- LEFT COLUMN -->
+<!-- Section 1: Adaptation to abiotic stress -->
+<div style="display: flex; gap: 2rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;">
     <h2><strong>Adaptation to abiotic stress</strong></h2>
     <p>
@@ -15,39 +14,40 @@ permalink: /research/
     </p>
   </div> 
   <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
-      <a href="http://gupta-plantgenevo.github.io/images/rice_salineselection.jpg">
-        <img src="/images/rice_salineselection.jpg" 
-             width="600" 
-             border="0" 
-             alt="Selection on transcript - salinity stress"
-             onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'profile']);">
-      </a>
+    <a href="http://gupta-plantgenevo.github.io/images/rice_salineselection.jpg">
+      <img src="/images/rice_salineselection.jpg" 
+           width="600" 
+           alt="Selection on transcript - salinity stress"
+           style="max-width: 100%; height: auto;">
+    </a>
   </div>
 </div>
 
-<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; margin-bottom: 2rem;">
+<!-- Subheading: Pigeonpea -->
+<div style="display: flex; gap: 2rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;"> 
-    <h3><strong>Study System: Pigeonpea</strong></h3>
+    <h3 style="margin-left: 1.5rem;"><strong>Study System: Pigeonpea</strong></h3>
     <p>
     Pigeonpea <em>(Cajanus cajan)</em>, commonly known as Arhar or Tur dal, is an important diploid outcrossing legume (2n = 22) which was domesticated relatively recently (3500 years ago) in India. It is a nutrient dense crop that is cultivated on over 6.36 million hectare land area globally (FAO Stat. 2022), particularly in the semi-arid regions of India and East Africa. Although more resilient to abiotic stress than most crops, pigeonpea productivity suffers due to high salinity and temperature extremes. Despite its economic importance and resilience in marginal environments, pigeonpea's genetic basis for tolerance and adaptation to environmental stressors remains poorly understood — an area my lab is actively investigating.
     </p>
   </div>
   <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
-      <a href="http://gupta-plantgenevo.github.io/images/pigeonpea.png">
-        <img src="/images/pigeonpea.png" 
-             width="400" 
-             border="0" 
-             alt="Pigeonpea shrub"
-             onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'profile']);">
-      </a>
-      <div style="color: black; font-size: 16px; margin-top: 5px;">
-        Pigeonpea shrub (P.C: ICRISAT, India)
-      </div>
+    <a href="http://gupta-plantgenevo.github.io/images/pigeonpea.png">
+      <img src="/images/pigeonpea.png" 
+           width="400" 
+           alt="Pigeonpea shrub"
+           style="max-width: 100%; height: auto;">
+    </a>
+    <div style="color: black; font-size: 16px; margin-top: 5px;">
+      Pigeonpea shrub (P.C: ICRISAT, India)
+    </div>
   </div>
 </div>
 
+---
 
-<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; margin-bottom: 2rem;">
+<!-- Section 2: Domestication -->
+<div style="display: flex; gap: 2rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;">
     <h2><strong>Domestication and post-domestication divergence</strong></h2>
     <p>
@@ -55,37 +55,35 @@ permalink: /research/
     </p>
   </div>
   <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
-      <a href="http://gupta-plantgenevo.github.io/images/sp_leafshape.jpg">
-        <img src="/images/sp_leafshape.jpg" 
-             width="400" 
-             border="0" 
-             alt="Pigeonpea shrub"
-             onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'profile']);">
-      </a>
+    <a href="http://gupta-plantgenevo.github.io/images/sp_leafshape.jpg">
+      <img src="/images/sp_leafshape.jpg" 
+           width="400" 
+           alt="Leaf shape variation"
+           style="max-width: 100%; height: auto;">
+    </a>
   </div>
 </div>
 
-  
-<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; margin-bottom: 2rem;">
+<!-- Subheading: Rice -->
+<div style="display: flex; gap: 2rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;">
-    <h3><strong>Study System: Rice</strong></h3>
+    <h3 style="margin-left: 1.5rem;"><strong>Study System: Rice</strong></h3>
     <p>
     Rice <em>(Oryza sativa L.)</em> is a staple cereal crop and one of the most important food sources worldwide, feeding more than half of the global population. It is a diploid selfing species (2n = 24) that was domesticated over 9,000 years ago from its wild progenitor <em>Oryza rufipogon</em> in Asia. Rice serves as a model system for monocot genomics, offering extensive genomic resources to study domestication, adaptation, and responses to environmental stress. Rice comprises diverse varieties, most notably the indica and japonica, and the hybrid varieties -- basmati and aus, which differ in physiology, grain quality, and environmental adaptability. The lab is interested in studying the hybridization history in rice and understanding the contribution of the parental varieties in the formation of the hybrid varieties.
     </p>
-  </div>
     <p>
     In addition, rice is grown using different cultivation systems (upland-rainfed, lowland-rainfed, irrigated and deep-water) which have led to distinct selection pressures that shaped genomic and regulatory diversity. The lab is interested in uncovering this diversity.
     </p>
-    <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
-      <a href="http://gupta-plantgenevo.github.io/images/rice.jpg">
-        <img src="/images/rice.jpg" 
-             width="600" 
-             border="0" 
-             alt="Rice field experiment"
-             onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'profile']);">
-      </a>
-      <div style="color: black; font-size: 16px; margin-top: 5px;">
-        Rice field experiment, IRRI (P.C: Simon C. Groen).
-      </div>
+  </div>
+  <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
+    <a href="http://gupta-plantgenevo.github.io/images/rice.jpg">
+      <img src="/images/rice.jpg" 
+           width="600" 
+           alt="Rice field experiment"
+           style="max-width: 100%; height: auto;">
+    </a>
+    <div style="color: black; font-size: 16px; margin-top: 5px;">
+      Rice field experiment, IRRI (P.C: Simon C. Groen).
     </div>
+  </div>
 </div>
