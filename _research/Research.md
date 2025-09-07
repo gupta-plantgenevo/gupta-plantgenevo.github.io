@@ -6,7 +6,7 @@ permalink: /research/
 ---
 
 <!-- Section 1: Adaptation to abiotic stress -->
-<div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 1rem;">
   <div style="flex: 2 1 400px; min-width: 300px;">
     <h2><strong>Adaptation to abiotic stress</strong></h2>
     <p>
@@ -34,7 +34,7 @@ permalink: /research/
   <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
     <a href="http://gupta-plantgenevo.github.io/images/pigeonpea.png">
       <img src="/images/pigeonpea.png" 
-           width="300" 
+           width="250" 
            alt="Pigeonpea shrub"
            style="max-width: 100%; height: auto;">
     </a>
@@ -47,7 +47,7 @@ permalink: /research/
 ---
 
 <!-- Section 2: Domestication -->
-<div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 1rem;">
   <div style="flex: 2 1 500px; min-width: 300px;">
     <h2><strong>Domestication and post-domestication divergence</strong></h2>
     <p>
@@ -57,7 +57,7 @@ permalink: /research/
   <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
     <a href="http://gupta-plantgenevo.github.io/images/sp_leafshape.jpg">
       <img src="/images/sp_leafshape.jpg" 
-           width="350" 
+           width="325" 
            alt="Leaf shape variation"
            style="max-width: 100%; height: auto;">
     </a>
