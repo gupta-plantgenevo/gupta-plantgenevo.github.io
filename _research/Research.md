@@ -9,17 +9,17 @@ permalink: /research/
 <div style="max-width: 1100px; margin: 0 auto; padding: 0 1rem;">
 
 <!-- Section 1: Adaptation to abiotic stress -->
-<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
-  <div style="flex: 2 1 500px; min-width: 300px;">
+<div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
+  <div style="flex: 2 1 400px; min-width: 300px;">
     <h2><strong>Adaptation to abiotic stress</strong></h2>
     <p>
     My research investigates how crops adapt to abiotic stresses such as salinity, drought and heat, all of which impose strong constraints on growth and yield. These stresses act as powerful selective pressures, shaping the genetic and regulatory architecture of plant populations. Biologically, abiotic stresses drive selection by favoring alleles that enhance survival and performance but often at a cost to other fitness traits. For example, salinity stress can intensify selection on gene expression networks (see alongside image), while domestication has historically favored loss of resistance or stress-response genes to optimize yield. Such trade-offs highlight the evolutionary constraints and adaptive potential of crops facing environmental pressures. I am interested in identifying key phenotypes, genes and regulatory networks that is associated with response and adaptation (including trade-offs) to abiotic stresses. I use a suite of approaches to quantify how abiotic stresses act as selective agents, and shapes genetic variation and regulatory networks that underpin crop adaptation. By studying adaptation at the intersection of physiology, genomics, and evolution, I aim to uncover mechanisms that can be harnessed for crop improvement under changing climates.
     </p>
   </div> 
-  <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
+  <div style="flex: 1 1 400px; min-width: 250px; text-align: center;">
     <a href="http://gupta-plantgenevo.github.io/images/rice_salineselection.jpg">
       <img src="/images/rice_salineselection.jpg" 
-           width="800" 
+           width="400" 
            alt="Selection on transcript - salinity stress"
            style="max-width: 100%; height: auto;">
     </a>
@@ -27,7 +27,7 @@ permalink: /research/
 </div>
 
 <!-- Subheading: Pigeonpea -->
-<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;"> 
     <h3 style="margin-left: 1.5rem;"><strong>Study System: Pigeonpea</strong></h3>
     <p style="margin-left: 1.5rem;">
