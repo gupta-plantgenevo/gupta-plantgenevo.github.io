@@ -5,6 +5,8 @@ author_profile: false
 permalink: /research/
 ---
 
+<div style="max-width: 1100px; margin: 0 auto; padding-left: 0.5rem; padding-right: 0.5rem;">
+
 <!-- Section 1: Adaptation to abiotic stress -->
 <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 400px; min-width: 300px;">
@@ -26,8 +28,8 @@ permalink: /research/
 <!-- Subheading: Pigeonpea -->
 <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;"> 
-    <h3 style="margin-left: 1.5rem;"><strong>Study System: Pigeonpea</strong></h3>
-    <p style="margin-left: 1.5rem;">
+    <h3 style="margin-left: 1rem;"><strong>Study System: Pigeonpea</strong></h3>
+    <p style="margin-left: 1rem;">
     Pigeonpea <em>(Cajanus cajan)</em>, commonly known as Arhar or Tur dal, is an important diploid outcrossing legume (2n = 22) which was domesticated relatively recently (3500 years ago) in India. It is a nutrient dense crop that is cultivated on over 6.36 million hectare land area globally (FAO Stat. 2022), particularly in the semi-arid regions of India and East Africa. Although more resilient to abiotic stress than most crops, pigeonpea productivity suffers due to high salinity and temperature extremes. Despite its economic importance and resilience in marginal environments, pigeonpea's genetic basis for tolerance and adaptation to environmental stressors remains poorly understood — an area my lab is actively investigating.
     </p>
   </div>
@@ -67,11 +69,11 @@ permalink: /research/
 <!-- Subheading: Rice -->
 <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 400px; min-width: 300px;">
-    <h3 style="margin-left: 1.5rem;"><strong>Study System: Rice</strong></h3>
-    <p style="margin-left: 1.5rem;">
+    <h3 style="margin-left: 1rem;"><strong>Study System: Rice</strong></h3>
+    <p style="margin-left: 1rem;">
     Rice <em>(Oryza sativa L.)</em> is a staple cereal crop and one of the most important food sources worldwide, feeding more than half of the global population. It is a diploid selfing species (2n = 24) that was domesticated over 9,000 years ago from its wild progenitor <em>Oryza rufipogon</em> in Asia. Rice serves as a model system for monocot genomics, offering extensive genomic resources to study domestication, adaptation, and responses to environmental stress. Rice comprises diverse varieties, most notably the indica and japonica, and the hybrid varieties -- basmati and aus, which differ in physiology, grain quality, and environmental adaptability. The lab is interested in studying the hybridization history in rice and understanding the contribution of the parental varieties in the formation of the hybrid varieties.
     </p>
-    <p style="margin-left: 1.5rem;">
+    <p style="margin-left: 1rem;">
     In addition, rice is grown using different cultivation systems (upland-rainfed, lowland-rainfed, irrigated and deep-water) which have led to distinct selection pressures that shaped genomic and regulatory diversity. The lab is interested in uncovering this diversity.
     </p>
   </div>
@@ -86,4 +88,6 @@ permalink: /research/
       Rice field experiment, IRRI (P.C: Simon C. Groen).
     </div>
   </div>
+</div>
+
 </div>
