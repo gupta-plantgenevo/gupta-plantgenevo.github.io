@@ -5,8 +5,6 @@ author_profile: false
 permalink: /research/
 ---
 
-<div style="max-width: 1100px; margin: 0 auto; padding-left: 0.5rem; padding-right: 0.5rem;">
-
 <!-- Section 1: Adaptation to abiotic stress -->
 <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 400px; min-width: 300px;">
@@ -90,4 +88,3 @@ permalink: /research/
   </div>
 </div>
 
-</div>
