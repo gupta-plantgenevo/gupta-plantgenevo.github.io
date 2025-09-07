@@ -5,8 +5,11 @@ author_profile: false
 permalink: /research/
 ---
 
+<!-- Page container with reduced margins -->
+<div style="max-width: 1100px; margin: 0 auto; padding: 0 1rem;">
+
 <!-- Section 1: Adaptation to abiotic stress -->
-<div style="display: flex; gap: 2rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;">
     <h2><strong>Adaptation to abiotic stress</strong></h2>
     <p>
@@ -16,7 +19,7 @@ permalink: /research/
   <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
     <a href="http://gupta-plantgenevo.github.io/images/rice_salineselection.jpg">
       <img src="/images/rice_salineselection.jpg" 
-           width="600" 
+           width="800" 
            alt="Selection on transcript - salinity stress"
            style="max-width: 100%; height: auto;">
     </a>
@@ -24,17 +27,17 @@ permalink: /research/
 </div>
 
 <!-- Subheading: Pigeonpea -->
-<div style="display: flex; gap: 2rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;"> 
     <h3 style="margin-left: 1.5rem;"><strong>Study System: Pigeonpea</strong></h3>
-    <p>
+    <p style="margin-left: 1.5rem;">
     Pigeonpea <em>(Cajanus cajan)</em>, commonly known as Arhar or Tur dal, is an important diploid outcrossing legume (2n = 22) which was domesticated relatively recently (3500 years ago) in India. It is a nutrient dense crop that is cultivated on over 6.36 million hectare land area globally (FAO Stat. 2022), particularly in the semi-arid regions of India and East Africa. Although more resilient to abiotic stress than most crops, pigeonpea productivity suffers due to high salinity and temperature extremes. Despite its economic importance and resilience in marginal environments, pigeonpea's genetic basis for tolerance and adaptation to environmental stressors remains poorly understood — an area my lab is actively investigating.
     </p>
   </div>
   <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
     <a href="http://gupta-plantgenevo.github.io/images/pigeonpea.png">
       <img src="/images/pigeonpea.png" 
-           width="400" 
+           width="300" 
            alt="Pigeonpea shrub"
            style="max-width: 100%; height: auto;">
     </a>
@@ -47,17 +50,17 @@ permalink: /research/
 ---
 
 <!-- Section 2: Domestication -->
-<div style="display: flex; gap: 2rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;">
     <h2><strong>Domestication and post-domestication divergence</strong></h2>
     <p>
-    Another area that I am interested in is understanding how domestication and post-domestication processes have shaped genome evolution and driven divergence both between wild progenitors and cultivated crops, as well as among different cultivated lineages. My research focuses on uncovering the how the interplay of processes such as selection, demographic bottlenecks, gene loss, structural variation, and introgression, shape the diversity we see today. By integrating comparative genomics, population genetics, and functional analyses, I identify genetic variants, structural changes, and regulatory shifts that underlie domestication and post-domestication diversification. This work not only deepens our understanding of plant evolution but also gives us insights into the history of domestication and its spread. Further, it provides critical genomic resources for linking evolutionary processes to key agronomic traits, thereby accelerating efforts in crop adaptation and improvement.
+    Another area that I am interested in is understanding how domestication and post-domestication processes have shaped genome evolution and driven divergence both between wild progenitors and cultivated crops, as well as among different cultivated lineages. My research focuses on uncovering the how the interplay of processes such as selection, demographic bottlenecks, gene loss, structural variation, and introgression, shape the diversity we see today (see image alongside). By integrating comparative genomics, population genetics, and functional analyses, I identify genetic variants, structural changes, and regulatory shifts that underlie domestication and post-domestication diversification. This work not only deepens our understanding of plant evolution but also gives us insights into the history of domestication and its spread. Further, it provides critical genomic resources for linking evolutionary processes to key agronomic traits, thereby accelerating efforts in crop adaptation and improvement.
     </p>
   </div>
   <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
     <a href="http://gupta-plantgenevo.github.io/images/sp_leafshape.jpg">
       <img src="/images/sp_leafshape.jpg" 
-           width="400" 
+           width="350" 
            alt="Leaf shape variation"
            style="max-width: 100%; height: auto;">
     </a>
@@ -65,13 +68,13 @@ permalink: /research/
 </div>
 
 <!-- Subheading: Rice -->
-<div style="display: flex; gap: 2rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 2 1 500px; min-width: 300px;">
     <h3 style="margin-left: 1.5rem;"><strong>Study System: Rice</strong></h3>
-    <p>
+    <p style="margin-left: 1.5rem;">
     Rice <em>(Oryza sativa L.)</em> is a staple cereal crop and one of the most important food sources worldwide, feeding more than half of the global population. It is a diploid selfing species (2n = 24) that was domesticated over 9,000 years ago from its wild progenitor <em>Oryza rufipogon</em> in Asia. Rice serves as a model system for monocot genomics, offering extensive genomic resources to study domestication, adaptation, and responses to environmental stress. Rice comprises diverse varieties, most notably the indica and japonica, and the hybrid varieties -- basmati and aus, which differ in physiology, grain quality, and environmental adaptability. The lab is interested in studying the hybridization history in rice and understanding the contribution of the parental varieties in the formation of the hybrid varieties.
     </p>
-    <p>
+    <p style="margin-left: 1.5rem;">
     In addition, rice is grown using different cultivation systems (upland-rainfed, lowland-rainfed, irrigated and deep-water) which have led to distinct selection pressures that shaped genomic and regulatory diversity. The lab is interested in uncovering this diversity.
     </p>
   </div>
@@ -87,3 +90,5 @@ permalink: /research/
     </div>
   </div>
 </div>
+
+</div> <!-- close page container -->
