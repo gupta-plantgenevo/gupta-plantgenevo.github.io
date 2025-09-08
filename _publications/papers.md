@@ -16,7 +16,7 @@ For an up-to-date list, see [my google scholar profile](https://scholar.google.c
       Topologically associating domains and the evolution of three‐dimensional genome architecture in rice
     </h3>
     <p>
-      <strong>Kurbidaeva A, Gupta S, Zaidem M, Castanera R, Sato Y, Joly‐Lopez Z, Casacuberta JM, Purugganan MD.</strong><br>
+      Kurbidaeva A, **Gupta S**, Zaidem M, Castanera R, Sato Y, Joly‐Lopez Z, Casacuberta JM, Purugganan MD.<br>
       <em>The Plant Journal (2025)</em>
     </p>
     <p>
