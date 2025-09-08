@@ -1,4 +1,4 @@
-<img width="1668" height="1645" alt="ausPub" src="https://github.com/user-attachments/assets/8e2b2e20-11bc-45e6-a67e-b0992f26ab5e" />---
+---
 layout: archive
 title: "Articles"
 author_profile: false
