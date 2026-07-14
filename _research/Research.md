@@ -44,6 +44,26 @@ permalink: /research/
   </div>
 </div>
 
+
+<div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 2rem;">
+  <div style="flex: 2 1 500px; min-width: 300px;"> 
+    <p style="margin-left: 1rem;">
+    I am now developing a research program on pigeonpea focused on the genetic, regulatory, ecological, and evolutionary mechanisms underlying heat and salinity stress response. Broadly, I aim to integrate genome resources, diversity-panel phenotyping, stress transcriptomics, and association/eQTL-style analyses to identify genes, regulatory variants, and pathways that contribute to abiotic stress tolerance in pigeonpea. In parallel, I am interested in understanding how root-associated and rhizosphere microbes shape plant tolerance to abiotic stress, and whether stress conditions can drive eco-evolutionary feedbacks between plants and their root microbial communities. My lab’s primary goal would therefore be to integrate molecular, ecological, and evolutionary perspectives on abiotic stress response and adaptation: first by identifying the phenotypic and molecular basis of stress tolerance, and then by determining the ecological and evolutionary roles of root-associated microbes in shaping plant responses to stressful environments.
+    </p>
+  </div>
+  <div style="flex: 1 1 300px; min-width: 250px; text-align: center;">
+    <a href="http://gupta-plantgenevo.github.io/images/pigeonpea.png">
+      <img src="/images/research_summary.png" 
+           width="250" 
+           alt="Pigeonpea shrub"
+           style="max-width: 100%; height: auto;">
+    </a>
+    <div style="color: black; font-size: 16px; margin-top: 5px;">
+      Understanding the Molecular and Microbial Drivers of Abiotic Stress Adaptation in Pigeonpea
+    </div>
+  </div>
+</div>
+
 ---
 
 <!-- Section 2: Domestication -->
